@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vha4493
 - 👀 I’m interested in juice.
-- 🌱 I’m currently learning. I am a second year college student(CS major)
-- 💞️ I’m looking to collaborate on.. something relating to my major i guess?
-- 📫 How to reach me ... my number, no you cannot ask for it.
+- 🌱 I’m currently learning. I am a third year comp sci major concentration in Software dev
+- 💞️ I’m looking to collaborate on something relating to biotechnology!
+- 📫 How to reach me email vha4493@gmail.com
 - 😄 Pronouns: ...dont refer to me
 - ⚡ Fun fact: ...i like apple juice mixed with orange juice.
 
